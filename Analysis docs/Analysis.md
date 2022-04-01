@@ -15,4 +15,6 @@ References
 https://ourworldindata.org/economic-growth
 
 https://www.kaggle.com/code/stieranka/predicting-gdp-world-countries/notebook
+PloT like this on Tableau
+https://www.newcapitalmgmt.com/news/visualizing-the-94-trillion-world-economy
  
