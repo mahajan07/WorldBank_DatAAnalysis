@@ -1,7 +1,7 @@
 ## WORLD BANK GDP DATA ANALYSIS!
 
 1. Do a pre and post covid analysis!
-2. Use UN countries and Countries alliances like G7 or G20
+2. Use UN countries and Countries alliances like G7 and E7 countries analysis
 --
 --
 3.t
