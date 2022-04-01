@@ -4,7 +4,9 @@
 2. Use UN countries and Countries alliances like G7 and E7 countries analysis
 --
 --
-3.t
+3.do an analysis on borthrate death rate in e7, g7. Or unsc countries
+https://data.worldbank.org/indicator/SP.DYN.CDRT.IN?view=chart
+
 
 
 Gg
