@@ -23,3 +23,4 @@ https://www.learnpythonwithrune.org/pandas-determine-correlation-between-gdp-and
 https://towardsdatascience.com/factor-analysis-cluster-analysis-on-countries-classification-1bdb3d8aa096
 
 https://python.plainenglish.io/animated-bubble-chart-with-plotly-in-python-inspired-by-professor-hans-rosling-b7262298dd03
+https://www.kaggle.com/code/aashita/guide-to-animated-bubble-charts-using-plotly/notebook
