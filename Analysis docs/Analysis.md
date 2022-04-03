@@ -9,7 +9,9 @@ https://data.worldbank.org/indicator/SP.DYN.CDRT.IN?view=chart
 
 
 
-Gg
+## 
+Using Gapminder Dataset a restriction is found that I am not able to go beyond 2007 due to inner joins I am doing on that dataset
+
 
 
 
