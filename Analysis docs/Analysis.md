@@ -26,3 +26,5 @@ https://towardsdatascience.com/factor-analysis-cluster-analysis-on-countries-cla
 
 https://python.plainenglish.io/animated-bubble-chart-with-plotly-in-python-inspired-by-professor-hans-rosling-b7262298dd03
 https://www.kaggle.com/code/aashita/guide-to-animated-bubble-charts-using-plotly/notebook
+
+https://www.investopedia.com/ask/answers/033015/how-does-stock-market-affect-gross-domestic-product-gdp.asp#:~:text=The%20stock%20market%20is%20often%20a%20sentiment%20indicator%20that%20can,more%20spending%20and%20higher%20GDP.
