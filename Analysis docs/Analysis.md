@@ -28,3 +28,5 @@ https://python.plainenglish.io/animated-bubble-chart-with-plotly-in-python-inspi
 https://www.kaggle.com/code/aashita/guide-to-animated-bubble-charts-using-plotly/notebook
 
 https://www.investopedia.com/ask/answers/033015/how-does-stock-market-affect-gross-domestic-product-gdp.asp#:~:text=The%20stock%20market%20is%20often%20a%20sentiment%20indicator%20that%20can,more%20spending%20and%20higher%20GDP.
+
+https://www.kaggle.com/code/henriquegaspar/transforming-and-clustering-socioeconomic-data
