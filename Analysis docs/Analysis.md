@@ -9,16 +9,20 @@ https://data.worldbank.org/indicator/SP.DYN.CDRT.IN?view=chart
 
 
 
-## 
-Using Gapminder Dataset a restriction is found that I am not able to go beyond 2007 due to inner joins I am doing on that dataset
+
 
 
 
 
 References
-https://ourworldindata.org/economic-growth
+# Raceplotly reference
+https://towardsdatascience.com/making-a-bar-chart-race-plot-using-plotly-made-easy-8dad3b1da955
 
-https://www.kaggle.com/code/stieranka/predicting-gdp-world-countries/notebook
+# BUBBLE PLOT -- Hans Rosling Youtube video
+https://www.youtube.com/watch?v=jbkSRLYSojo
+## 
+Using Gapminder Dataset a restriction is found that I am not able to go beyond 2007 due to inner joins I am doing on that dataset
+
 PloT like this on Tableau
 https://www.newcapitalmgmt.com/news/visualizing-the-94-trillion-world-economy
 https://www.learnpythonwithrune.org/pandas-determine-correlation-between-gdp-and-stock-market/
