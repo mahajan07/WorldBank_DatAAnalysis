@@ -23,3 +23,14 @@ https://www.youtube.com/watch?v=jbkSRLYSojo
 ## 
 Using Gapminder Dataset a restriction is found that I am not able to go beyond 2007 due to inner joins I am doing on that dataset
 
+# DATASET REFERENCE
+
+https://github.com/CSSEGISandData/COVID-19
+
+https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS
+
+https://data.worldbank.org/indicator/MS.MIL.XPND.GD.ZS?year=2016
+
+https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
+https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS
+https://data.worldbank.org/indicator/SP.POP.TOTL
