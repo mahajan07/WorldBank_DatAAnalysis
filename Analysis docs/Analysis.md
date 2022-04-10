@@ -1,10 +1,12 @@
 ## WORLD BANK GDP DATA ANALYSIS!
 
-1. Do a pre and post covid analysis!
+1. 
 
 2. Use UN countries and Countries alliances like G7 and E7 countries analysis
 --
---
+### How was GDP change and find countries that performed well as well as worst in Covid Pandemic?
+* GDP change has been a crucial factor to determine the growth of a nation. Many countries 
+* tried their best to support their 
 
 
 
