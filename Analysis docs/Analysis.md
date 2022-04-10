@@ -25,8 +25,19 @@ Gross domestic product(GDP) is quantitative measure for signifying the health of
 ### How does the GDP line chart depicts the growth of nations?
 * A interactive plot with feature of unselecting nations helps better analyse the trend of nations.
 * UNSC
-** UNITED STATES OF AMERICA is known for innovation and stands out in every group as new startups technology and research is the backbone of the country.
-* 
+* UNITED STATES OF AMERICA is known for innovation and stands out in every group as new startups technology and research is the backbone of the country.
+* All Fellow nations have a linear trend but China disrupted in 2008 after lot of forign investor looked into reverse mergers into US Stock market with chinese companies to support the stock maket crash.
+
+* Group of 7
+* USA ranks top followed by Japan which is working hard to gain more stretegic alliances worldwide to boost theor economy and lend other nations for supporting their governments develop infrastructures and technology and create a demand for japanese products.
+* UK and France are competing themselves and a race to be better than one other is visible in the trend,
+* Canada has lowest GDP in the group which is rising a low steady rate and precedes Italy which is very small country with very less economic resources as compared.
+
+* Emerging 7
+* China has outperformed the group and shows upward growth trend which makes it the market leader of todays world.
+* As we unselect China, India surprises us by outperforming growth from American countries like Brazil, Mexico and even Russia.
+* A very clear indication is present in 2014, which shows Russian economy falls back all emerging nations with maybe bad decision making of invading Ukraine for first time and getting opposed by world.
+* Indonesia has least economy and was able to develop the products and services and challenges Mexico in present day and even growing fast.
 
 
 ### Compare GDP change for Emeging-7 anf Group-7 countries!
