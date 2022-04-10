@@ -19,6 +19,15 @@ Gross domestic product(GDP) is quantitative measure for signifying the health of
 * After US followed China and then Japan, All three nation competing with each other for world class technology, product relibility and a healtier competition.
 * It is evident from Visualization and futher inspection is required about GDP change of these nations. China shows positive growth even after Pandemic where as Japan was able to sustain the negative level but US lost some share of the GDP and so many lives to the pandemic even after Stimulus packages to the industry.
 
+### Divide and Analyze top 20 countries on basis of Alliances made by nations.
+* To promote competition and support rising fellow nations and protect the interest of Nations, Stretegic alliances by countries exist namely UNSC - United Nations Security council, G-7 Group of 7 ( Developed nations of the World), E-7 also known as Emerging 7 countries that work along each other to protect business interests and challenge status quo of evolution at every step.
+
+### How does the GDP line chart depicts the growth of nations?
+* A interactive plot with feature of unselecting nations helps better analyse the trend of nations.
+* UNSC
+** UNITED STATES OF AMERICA is known for innovation and stands out in every group as new startups technology and research is the backbone of the country.
+* 
+
 
 ### Compare GDP change for Emeging-7 anf Group-7 countries!
 * The analysis state that Emeging 7 nations are developing at a much faster rate compared to developed nations of the world with huge industriization, Foreign Direct Investments and cheap labour costs available for developing products and providing services.
