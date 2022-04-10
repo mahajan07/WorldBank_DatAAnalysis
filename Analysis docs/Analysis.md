@@ -8,6 +8,8 @@ Gross domestic product(GDP) is quantitative measure for signifying the health of
 3. Gapminder Dataset explaning Life expectancy was used
 4. Exclusive list of Python libraries and packages were used for manipulation, developing reports, visualizations and widgets
 5. Some of them are Pandas, Plotly, Dataprep from reporting, IpyWidgets, Raceplotly, Bubbleplot and Matplotlib
+6. Countries in each Continent after grouping. Africa      48, Americas    24, Asia        29, Europe      30, Oceania      2
+7. 
  
 # DATA PROCESSING AND FEATURES ENGINEERING
 1. Health and Education are % of GDP converted amount actually spent for analysis
@@ -69,6 +71,14 @@ Gross domestic product(GDP) is quantitative measure for signifying the health of
 * Education has linkage with GDP but not srong coorelation is present!
 * Maybe due to high population in Asia, these values are misleading!
 
+### GDP Barplots of Natios state the growth in GDP for following nations
+* The mean growth states the leaders and benefeciaries in each alliance!
+* 
+### Population boxplot for Yearwise trend from 1990 to 2020
+* Population As we can see, the general global trend of is mostly in the high range.
+* However, the median is rising for E7 countries as their population is rising in Billions where as G7 countries have slow rising population and have controlled procedures.
+* Again, we have a lot of outliers that do not necessarily follow this average though. United States is an outlier as it has more population than compared countries.
+## IMPACT OF COVID PANDEMIC ON NATIONS AND GDP CHANGE
 ## Compare GDP change for Emeging-7 anf Group-7 countries!
 * The analysis state that Emeging 7 nations are developing at a much faster rate compared to developed nations of the world with huge industriization, Foreign Direct Investments and cheap labour costs available for developing products and providing services.
 * China, Indonesia, India developed 544%, 270% and 224% from 2005 to 2020. The growth could have been more if the pandemic was not the situation, The chances of Brazil being in the list was very high but Pandemic hit so bad that they approximately 1/4 share of the pie in 2019 to 2020.
@@ -85,11 +95,44 @@ Gross domestic product(GDP) is quantitative measure for signifying the health of
 * Italy and Canada suffered huge losses though being developed economies and were showcasing a loss like India and Indonesia.
 * Emerging economies got a strong hit with Brazil losing 23% of their economic growth where as Indonesia and India took a downward trend but maintained themselves at 5-6% loss.
 
+## What is the Military budget story for the Developed and developing markets as it is an indicator of strength for respective nations
+* A racing horizental barplot showcases the trend with range till 500 Billion !
+* USA always had highest Defence budgets and top technology and warfare equipments and spends more that 500 Billion (800B to be exact) on Military.
+* UK and Japan, Russia were following the same trend improvising their military till 2010 followed by Germany and Italy!
+* European countries have NATO as alliance which helps lower cost of development for new technology and shared among EU nations to support each other.
+* China took the lead after US in 2010 and 5 years later India also joined the race surpassing Russia, UK and France
+* Indonesia and Mexico never spent a lot on their military development as they dont face lot of threat from neighbouring nations
+
+## What information is in Population growth trend from 1990 till 2020 ?
+* Asia accounts for 2/3 of population for the major countries due to which it is able to provide cheap labour and services worldwide.
+* Europeon has the least population and a very stable economy and people tend to live longer in these Regions.
+* Germany, UK, France and Italy are historically developed regions of the world.
+* USA has most of the population followed bt Brazil, Mexico which are also impacted by businesses and migration to North America!
+* Turkey was growing fast in the population and crossed France and Germany in 30 years timeframe.
+* Turkey has the least population whereas China has most around 20X of Turkey.
+
+## Stacked Bar chart for Health, Education and Military insights!
+* Very evident from the chart, Every nation loves to spend on Health morethan Education followed by Military
+* These stacks and lines represent different contries and the amount they are contributing to Military, Education and Healthcare.
+* With Rising GDP , Countries are spending more on Healthcare, Education, Military in defined order. Health is crucial factor and is linearaly linked with GDP.
+* Hovering over shows limits and amount of expenditure differnt countries are doing on these sectors of development indicators. The least stack is US followed by China and top most are Brazil and Mexico.
+
+### THE ABOVE FACTS ARE PROVED BY GROUPING BY REGION AND ESTIMATING CONTRIBUTION OF COUNTRIES OF DIFFERENT CONTINENTS TO WORLD ECONOMY as GDP, and EXPENDITURE THEY ENGAGE IN FOR HEALTCARE, EDUCATION AND MILITARY IN THE PIE CHART
+
+##### MILITARY
+* USA  spends more more than world expense on MILITARY China, India and other European allied combined.
+* Asian countries have equivalent military budget like Europe but are not united like Europen allies. 
+##### EDUCATION
+* Europe spends the most on Education followed by Americas and Asia, Though Huge population expenditure in Education is relatively low in Asian countries.
+##### HEALTH
+* Americas spends most in health sector followed by Europe, Asia tries to follow up but will take a lot of time to reach world standards.
 
 
 
-
-
+#### Population index shows asian countries has 3/5 population followed by Africa and Americas.
+#### Its really sad to see though Asia has highest population and military budgets they are parsimonious on their approach towards spending on Education and Health.
+#### A country always spends more on healthcare and education rather than military; Healthcare spending is linear function of GDP.
+#### American countries spend more on military followed by China & India with US and China are becoming Arch Rivals in Control competition!
 
 
 # DATASET and Analysis REFERENCES 
