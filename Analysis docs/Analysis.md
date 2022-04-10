@@ -9,11 +9,16 @@ Gross domestic product(GDP) is quantitative measure for signifying the health of
 4. Exclusive list of Python libraries and packages were used for manipulation, developing reports, visualizations and widgets
 5. Some of them are Pandas, Plotly, Dataprep from reporting, IpyWidgets, Raceplotly, Bubbleplot and Matplotlib
  
-# FEATURES ENGINEERED
+# DATA PROCESSING AND FEATURES ENGINEERING
+1. Health and Education are % of GDP converted amount actually spent for analysis
+2. Transforming the scientific notation to float variable
+3. Meging dataframes into Single frame for Analysis by designing a preprocessing function[ preproboom ]
+4. Subseting nations on basis of list using a self designed function and labelling their respective continent.
+5. 
+*FEATURES:
 1. CONTINENT
 2. SPENDING IN USD IN HEALTH
 3. SPENDING IN USD IN EDUCATION
-
 ## Show the recent picture from 2017 - 2020 for world GDP?
 * Aftering performing the sorting operation and removing regions, the barplot signifies US with highest GDP and Mexico with lowest for top 15 countries.
 * After US followed China and then Japan, All three nation competing with each other for world class technology, product relibility and a healtier competition.
@@ -38,6 +43,17 @@ Gross domestic product(GDP) is quantitative measure for signifying the health of
 * As we unselect China, India surprises us by outperforming growth from American countries like Brazil, Mexico and even Russia.
 * A very clear indication is present in 2014, which shows Russian economy falls back all emerging nations with maybe bad decision making of invading Ukraine for first time and getting opposed by world.
 * Indonesia has least economy and was able to develop the products and services and challenges Mexico in present day and even growing fast.
+
+## Group all contries on basis of Continent and see the contribution in world GDP using a widget icon as Year and Pie chart?
+* In 2000, the world GDP was ruled by Europeon and Americas, making around 2/3 of World GDP
+* This status quo was challenged in coming years and in 2010, Asian markets started Exports of products and services and started gaining lot of maket share. 2009 Depression was lifted by attraction of lot of investors and capital for growth in Emeging Nations and even setting up foreign offices in other nations for cheaper business operations.
+* By 2015, Asian Markets started taking over Europen market and gaining more tourist and industrial attraction
+* Finally in 2019-2020, Asian and American countries make more than 2/3 of the world GDP challenging the whole trend that was in 2000.
+
+## How does these countries look over other Economic development indicators of life apart from GDP?
+#### Military Expenditure, Health Expense  % of GDP, Education Expense  % of GDP and Population
+* GDP GROWTH FOR UNSC, G7 and E7 Countries along with Military, Health, Education and Population Data from World Bank OpenData using the world bank library for data retrival
+* 
 
 
 ## Compare GDP change for Emeging-7 anf Group-7 countries!
@@ -76,5 +92,5 @@ https://www.youtube.com/watch?v=jbkSRLYSojo
 5. https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS
 6. https://data.worldbank.org/indicator/SP.POP.TOTL
 7. Using Gapminder Dataset a restriction is found that I am not able to go beyond 2007 due to inner joins I am doing on that dataset>> https://pypi.org/project/gapminder/
-
+## GDP per Capita , feature could be enginnered bu dividing GDP / Population but was not used as it was available in Gapminder dataset for final buubble plot
 
