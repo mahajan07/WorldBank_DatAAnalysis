@@ -15,7 +15,7 @@ Gross domestic product(GDP) is quantitative measure for signifying the health of
 3. Meging dataframes into Single frame for Analysis by designing a preprocessing function[ preproboom ]
 4. Subseting nations on basis of list using a self designed function and labelling their respective continent.
 5. 
-*FEATURES:
+* FEATURES:
 1. CONTINENT
 2. SPENDING IN USD IN HEALTH
 3. SPENDING IN USD IN EDUCATION
@@ -55,7 +55,7 @@ Gross domestic product(GDP) is quantitative measure for signifying the health of
 * GDP GROWTH FOR UNSC, G7 and E7 Countries along with Military, Health, Education and Population Data from World Bank OpenData using the world bank library for data retrival
 * 
 
-
+### As the preprocessing part is done, 
 ## Compare GDP change for Emeging-7 anf Group-7 countries!
 * The analysis state that Emeging 7 nations are developing at a much faster rate compared to developed nations of the world with huge industriization, Foreign Direct Investments and cheap labour costs available for developing products and providing services.
 * China, Indonesia, India developed 544%, 270% and 224% from 2005 to 2020. The growth could have been more if the pandemic was not the situation, The chances of Brazil being in the list was very high but Pandemic hit so bad that they approximately 1/4 share of the pie in 2019 to 2020.
