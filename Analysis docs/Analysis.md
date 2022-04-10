@@ -62,7 +62,12 @@ Gross domestic product(GDP) is quantitative measure for signifying the health of
 * High Cardinality due to lot of Countries and only 5 values in Continents
 * Missing values identified and handled by Median of each column
 * Data is highly skewed
-
+#### Pearson coorelation Plot signals:
+* Health strongly correlated with Military expense and GDP of a nation and weakly with Population and education
+* Military is Linear function of GDP
+* Population does not relate strong with any factor but has identification with GDP
+* Education has linkage with GDP but not srong coorelation is present!
+* Maybe due to high population in Asia, these values are misleading!
 
 ## Compare GDP change for Emeging-7 anf Group-7 countries!
 * The analysis state that Emeging 7 nations are developing at a much faster rate compared to developed nations of the world with huge industriization, Foreign Direct Investments and cheap labour costs available for developing products and providing services.
